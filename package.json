@@ -1,0 +1,15 @@
+{
+  "name": "@scriptious/explore-settings-json",
+  "version": "1.0.0",
+  "description": "Exploring `StrokesPlus.net.json` with a `StrokesPlus.UI.HTMLWindow`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kevin Hill",
+  "license": "MIT",
+  "devDependencies": {
+    "np": "^7.5.0"
+  }
+}
