@@ -1,19 +1,27 @@
 {
   "name": "@scriptious/explore-settings-json",
-  "version": "1.0.0",
+  "version": "0.1.0",
+  "private": false,
   "description": "Exploring `StrokesPlus.net.json` with a `StrokesPlus.UI.HTMLWindow`",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "StrokesPlus.net",
     "scripts",
     "actions"
   ],
-  "author": "Kevin Hill",
   "license": "MIT",
+  "author": {
+    "name": "Kevin Hill",
+    "email": "kevinkhill@pm.me",
+    "url": "https://kevinhill.codes"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "devDependencies": {
-    "np": "^7.5.0"
+    "np": "*"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
