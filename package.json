@@ -3,13 +3,14 @@
   "version": "1.0.0",
   "description": "Exploring `StrokesPlus.net.json` with a `StrokesPlus.UI.HTMLWindow`",
   "main": "index.js",
-  "files": [
-    "index.js"
-  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "StrokesPlus.net",
+    "scripts",
+    "actions"
+  ],
   "author": "Kevin Hill",
   "license": "MIT",
   "devDependencies": {
