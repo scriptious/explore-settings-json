@@ -1,12 +1,14 @@
 {
-  "name": "@strokesplus.net/explore-settings-json",
-  "version": "0.1.0",
+  "name": "@spcsp/explore-settings-json",
+  "version": "0.0.0",
   "private": false,
   "description": "Exploring `StrokesPlus.net.json` with a `StrokesPlus.UI.HTMLWindow`",
   "keywords": [
     "StrokesPlus.net",
-    "scripts",
-    "actions"
+    "clearscript",
+    "plugin",
+    "script",
+    "action"
   ],
   "license": "MIT",
   "author": {
@@ -15,12 +17,6 @@
     "url": "https://kevinhill.codes"
   },
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "devDependencies": {
-    "np": "*"
-  },
   "publishConfig": {
     "access": "public"
   }
