@@ -1,6 +1,6 @@
 {
   "name": "@spcsp/explore-settings-json",
-  "version": "0.0.0",
+  "version": "0.2.0",
   "private": false,
   "description": "Exploring `StrokesPlus.net.json` with a `StrokesPlus.UI.HTMLWindow`",
   "keywords": [
@@ -15,6 +15,9 @@
     "name": "Kevin Hill",
     "email": "kevinkhill@pm.me",
     "url": "https://kevinhill.codes"
+  },
+  "repository": {
+    "url": "https://github.com/spcsp/explore-settings-json"
   },
   "main": "index.js",
   "publishConfig": {
